@@ -64,3 +64,11 @@ Homebrew をインストールし、必要な開発ツール（Git、Vim、Tmux�
    - Homebrew パッケージがインストールされているか確認。
 
 ---
+
+- git cli
+- aws cli
+- cdk
+- docker desktop
+- vs code
+- tree command
+-
